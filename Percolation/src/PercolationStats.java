@@ -61,12 +61,8 @@ public class PercolationStats {
         return hiC;
     }
 
+    // test client (optional)
     public static void main(String[] args) {
-//        int n = Integer.parseInt(args[0]);
-//        int m = Integer.parseInt(args[1]);
-//        PercolationStats stats = new PercolationStats(n, m);
-//        System.out.println("mean = " + stats.mean());
-//        System.out.println("stddev = " + stats.stddev());
-//        System.out.println("95% confidence interval = [ " + stats.confidenceLo() + ", " + stats.confidenceHi() + " ]");
+
     }
 }

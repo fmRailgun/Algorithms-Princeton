@@ -124,8 +124,6 @@ public class Board {
                 if(blankCol - 1 >= 0){
                     list.add(new Board(exchange(blankRow, blankCol, blankRow, blankCol - 1)));
                 }
-//                System.out.println("Neighbor: " + list.size());
-//                System.out.println("Index: " + index);
             }
 
             @Override
@@ -178,18 +176,9 @@ public class Board {
     // unit testing (not graded)
     public static void main(String[] args){
         int[][] board = {{1, 0}, {2, 3}};
-
         Board b = new Board(board);
         Board b2 = new Board(board);
         System.out.println(b);
-//        System.out.println(b.manhattan());
-//
-//        Iterator bni = b.neighbors().iterator();
-//        while(bni.hasNext()){
-//            System.out.println(bni.next().toString());
-//        }
-
-
     }
 
 }

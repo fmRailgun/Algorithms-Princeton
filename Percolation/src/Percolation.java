@@ -1,5 +1,3 @@
-import edu.princeton.cs.algs4.StdRandom;
-import edu.princeton.cs.algs4.StdStats;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
@@ -10,7 +8,7 @@ public class Percolation {
     private WeightedQuickUnionUF grid;
     private WeightedQuickUnionUF grid2;
 
-        // creates n-by-n grid, with all sites initially blocked
+    // creates n-by-n grid, with all sites initially blocked
     public Percolation(int n){
         if(n <= 0){
             throw new java.lang.IllegalArgumentException();
@@ -79,8 +77,6 @@ public class Percolation {
         return grid.connected(0, size*size + 1);
     }
 
-
-
     private int indexInArray(int row, int col){
         validate(row, col);
         return (row - 1) * size + col;
@@ -93,47 +89,8 @@ public class Percolation {
         return true;
     }
 
-
-
     // test client (optional)
     public static void main(String[] args){
-        /*
-        int n = 5;
-        Percolation p = new Percolation(n);
-        p.open(1,5);
-        p.open(2,5);
-        p.open(3,5);
-        p.open(4,5);
-        p.open(5,5);
-        p.open(5,1);
-        p.open(4,1);
-        p.open(5,2);
-        p.open(4,2);
 
-        for (int i = 1; i <= n; i ++){
-            for(int j = 1; j <= n; j ++){
-                if (p.isOpen(i, j)) {
-                    System.out.print("Open  ");
-                }else{
-                    System.out.print("Clos  ");
-                }
-            }
-            System.out.println();
-        }
-        System.out.println();
-        for (int i = 1; i <= n; i ++){
-            for(int j = 1; j <= n; j ++){
-                if (p.isFull(i, j)) {
-                    System.out.print("Full  ");
-                }else{
-                    System.out.print("NotF  ");
-                }
-            }
-            System.out.println();
-        }
-
-        System.out.println();
-        System.out.println(p.percolates());
-        */
     }
 }

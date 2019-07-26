@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4843ec3a-dfe9-4448-8c08-62193e0419c1" name="Default Changelist" comment="" />
+    <list default="true" id="4843ec3a-dfe9-4448-8c08-62193e0419c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percolation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percolation/src/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percolation/src/PercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/8puzzle.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collinear Points/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collinear Points/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/BruteCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collinear Points/src/BruteCollinearPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/Collinear Points.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/FastCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collinear Points/src/FastCollinearPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collinear Points/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input1000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input10000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input2000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input299.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input300.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input3000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input350.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input4000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input5000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input6000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input8000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/mystery10089.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deques andRandomized Queues/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deques andRandomized Queues/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deques andRandomized Queues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deques andRandomized Queues/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deques andRandomized Queues/src/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deques andRandomized Queues/src/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deques andRandomized Queues/src/RandomizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deques andRandomized Queues/src/RandomizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deques andRandomized Queues/src/queues.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle1000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle10000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/horizontal8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input100K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input10K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input1M.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input200K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input20K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input400K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input40K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input800K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input80K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/vertical7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/PercolationStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/PercolationStats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/percolation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/src/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/src/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/src/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/src/percolation.zip" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +89,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="287">
+              <caret line="154" column="40" selection-start-line="154" selection-start-column="40" selection-end-line="154" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#Board#0;class#Board#0" />
-                <element signature="method#toString#0;class#Board#0" />
-                <element signature="method#hamming#0;class#Board#0" />
-                <element signature="method#manhattan#0;class#Board#0" />
+                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1212#1213#0" expanded="true" />
+                <element signature="e#2459#2460#0" expanded="true" />
+                <element signature="e#2496#2497#0" expanded="true" />
                 <element signature="e#2798#2799#0" expanded="true" />
                 <element signature="e#2840#2841#0" expanded="true" />
                 <element signature="e#2963#2964#0" expanded="true" />
@@ -35,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+            <state relative-caret-position="307">
+              <caret line="189" column="43" lean-forward="true" selection-start-line="189" selection-start-column="43" selection-end-line="189" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="class#SearchNode#0;class#Solver#0" />
@@ -52,8 +127,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PuzzleChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+            <state relative-caret-position="266">
+              <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,27 +145,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/PuzzleChecker.java" />
-        <option value="$PROJECT_DIR$/src/Board.java" />
         <option value="$PROJECT_DIR$/src/Solver.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="250" />
-    <option name="y" value="151" />
+    <option name="y" value="150" />
     <option name="width" value="1400" />
     <option name="height" value="785" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,16 +179,20 @@
               <item name="8Puzzle" type="b2602c69:ProjectViewProjectNode" />
               <item name="8Puzzle" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="8Puzzle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8Puzzle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algs4.jar!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KD-Tree" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.20242915" />
@@ -121,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solver">
+  <component name="RunManager" selected="Application.PuzzleChecker">
     <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Board" />
       <module name="8Puzzle" />
@@ -164,9 +252,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PuzzleChecker" />
         <item itemvalue="Application.Solver" />
         <item itemvalue="Application.Board" />
-        <item itemvalue="Application.PuzzleChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +274,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2661725" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27021563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -217,40 +305,43 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Board#0;class#Board#0" />
-            <element signature="method#toString#0;class#Board#0" />
-            <element signature="method#hamming#0;class#Board#0" />
-            <element signature="method#manhattan#0;class#Board#0" />
-            <element signature="e#2798#2799#0" expanded="true" />
-            <element signature="e#2840#2841#0" expanded="true" />
-            <element signature="e#2963#2964#0" expanded="true" />
-            <element signature="e#3013#3014#0" expanded="true" />
-            <element signature="method#twin#0;class#Board#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PuzzleChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="266">
+          <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+        <state relative-caret-position="307">
+          <caret line="189" column="43" lean-forward="true" selection-start-line="189" selection-start-column="43" selection-end-line="189" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="class#SearchNode#0;class#Solver#0" />
             <element signature="method#moves#0;class#Solver#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="154" column="40" selection-start-line="154" selection-start-column="40" selection-end-line="154" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1212#1213#0" expanded="true" />
+            <element signature="e#2459#2460#0" expanded="true" />
+            <element signature="e#2496#2497#0" expanded="true" />
+            <element signature="e#2798#2799#0" expanded="true" />
+            <element signature="e#2840#2841#0" expanded="true" />
+            <element signature="e#2963#2964#0" expanded="true" />
+            <element signature="e#3013#3014#0" expanded="true" />
+            <element signature="method#twin#0;class#Board#0" />
           </folding>
         </state>
       </provider>

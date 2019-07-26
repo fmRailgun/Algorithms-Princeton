@@ -15,10 +15,6 @@ public class Point implements Comparable<Point> {
 
     private final int x;     // x-coordinate of this point
     private final int y;     // y-coordinate of this point
-//    public static int compareToCount = 0;
-//    public static int trimCompareToCount = 0;
-//    public static int findCompareToCount = 0;
-//    public static int validateCompareToCount = 0;
 
     /**
      * Initializes a new point.
@@ -87,7 +83,6 @@ public class Point implements Comparable<Point> {
      *         argument point
      */
     public int compareTo(Point that) {
-//        compareToCount ++;
         if(this.x == that.x && this.y == that.y){
             return 0;
         }else if(this.y < that.y || (this.y == that.y && this.x < that.x)){
@@ -96,38 +91,6 @@ public class Point implements Comparable<Point> {
             return 1;
         }
     }
-
-//    public int compareToTrim(Point that) {
-//        trimCompareToCount ++;
-//        if(this.x == that.x && this.y == that.y){
-//            return 0;
-//        }else if(this.y < that.y || (this.y == that.y && this.x < that.x)){
-//            return -1;
-//        }else{
-//            return 1;
-//        }
-//    }
-//    public int compareToFind(Point that) {
-//        findCompareToCount ++;
-//        if(this.x == that.x && this.y == that.y){
-//            return 0;
-//        }else if(this.y < that.y || (this.y == that.y && this.x < that.x)){
-//            return -1;
-//        }else{
-//            return 1;
-//        }
-//    }
-//
-//    public int compareToValide(Point that) {
-//        validateCompareToCount ++;
-//        if(this.x == that.x && this.y == that.y){
-//            return 0;
-//        }else if(this.y < that.y || (this.y == that.y && this.x < that.x)){
-//            return -1;
-//        }else{
-//            return 1;
-//        }
-//    }
 
     /**
      * Compares two points by the slope they make with this point.

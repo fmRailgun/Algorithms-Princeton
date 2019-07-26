@@ -9,8 +9,6 @@ public class FastCollinearPoints {
 
     // finds all line segments containing 4 or more pointsCopy
     public FastCollinearPoints(Point[] points){
-
-
         if(points == null){
             throw new java.lang.IllegalArgumentException();
         }
@@ -31,9 +29,9 @@ public class FastCollinearPoints {
         segments = new ArrayList<LineSegment>();
         linePoints = new ArrayList<Point>();
 
-        // 外循环循环原点
+        // outer loop checks each point as a starting point
         for(int i = 0; i < pointsCopy.length; i ++){
-            // 存储除原点外的所有点
+            // store all points except the starting point
             ArrayList<Point> pointListAL = new ArrayList<Point>();
             for(int j = 0; j < pointsCopy.length; j ++){
                 if(j != i){
@@ -45,10 +43,10 @@ public class FastCollinearPoints {
                 pointList[j] = pointListAL.get(j);
             }
             pointListAL = null;
-            // 点数组排序
+            // sort
             Comparator<Point> c = pointsCopy[i].slopeOrder();
             Arrays.sort(pointList, c);
-            // 循环排序好后的数组，检查斜率相同的点有没有超过4个（包括原点）
+            // go through the ordered point list，检查斜率相同的点有没有超过4个（包括原点）
             int j = 0;
             while(j < pointList.length){
                 double slope = pointsCopy[i].slopeTo(pointList[j]);
@@ -67,7 +65,6 @@ public class FastCollinearPoints {
                 }
             }
         }
-        //trim();
     }
 
     // the number of line segments
@@ -111,10 +108,6 @@ public class FastCollinearPoints {
             System.out.println(l[i].toString());
         }
 
-//        System.out.println("Validate: " + Point.validateCompareToCount);
-//        System.out.println("Find: " + Point.findCompareToCount);
-//        System.out.println("Trim: " + Point.trimCompareToCount);
-//        System.out.println("Else: " + Point.compareToCount);
     }
 
 }

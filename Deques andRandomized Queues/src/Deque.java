@@ -135,15 +135,14 @@ public class Deque<Item> implements Iterable<Item>  {
         Deque<Integer> d = new Deque<Integer>();
         d.addLast(1);
         d.removeLast();
-
-
-
         System.out.println(d.isEmpty());
+
         d.addFirst(1);
         d.addFirst(2);
         System.out.println(d.removeLast());
         System.out.println(d.removeLast());
         System.out.println(d.size());
+
         d.addLast(1);
         d.addLast(2);
         d.addLast(2);
@@ -152,6 +151,7 @@ public class Deque<Item> implements Iterable<Item>  {
         d.addLast(2);
         d.addLast(2);
         System.out.println(d.removeFirst());
+
         for(int i : d){
             StdOut.print(i + "  ");
         }

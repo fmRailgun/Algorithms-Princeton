@@ -124,9 +124,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="626" />
-    <option name="y" value="41" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="625" />
+    <option name="y" value="40" />
     <option name="width" value="1400" />
     <option name="height" value="785" />
   </component>
@@ -160,7 +160,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algs4.jar!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -210,8 +211,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KdTree" />
       <item itemvalue="Application.KdTreeVisualizer" />
+      <item itemvalue="Application.KdTree" />
       <item itemvalue="Application.NearestNeighborVisualizer" />
       <item itemvalue="Application.RangeSearchVisualizer" />
     </list>

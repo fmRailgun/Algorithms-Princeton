@@ -1,7 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23a61954-6097-4bdb-a836-be7137e94586" name="Default Changelist" comment="" />
+    <list default="true" id="23a61954-6097-4bdb-a836-be7137e94586" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/8puzzle.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-unsolvable1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-unsolvable2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle2x2-unsolvable3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-unsolvable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-unsolvable1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle3x3-unsolvable2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-78.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle4x4-unsolvable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/src/puzzle50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/Collinear Points.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input1000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input10000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input2000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input299.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input300.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input3000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input350.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input4000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input5000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input6000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input8000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/input9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collinear Points/src/mystery10089.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deques andRandomized Queues/src/queues.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle1000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle10000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/circle4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/horizontal8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input100K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input10K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input1M.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input200K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input20K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input400K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input40K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input800K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/input80K.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KD-Tree/src/vertical7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Percolation/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Percolation/PercolationStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Percolation/PercolationStats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Percolation/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Percolation/percolation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/percolation.zip" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +233,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Percolation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+            <state relative-caret-position="285">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PercolationVisualizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
               <folding>
+                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -30,10 +253,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java">
+        <entry file="file://$PROJECT_DIR$/src/InteractivePercolationVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1558">
-              <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
+            <state relative-caret-position="247">
+              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,20 +267,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="1121">
+              <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../algs4.jar!/edu/princeton/cs/algs4/StdStats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2736">
-              <caret line="175" column="29" selection-start-line="175" selection-start-column="25" selection-end-line="175" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -68,25 +285,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PercolationStats.java" />
         <option value="$PROJECT_DIR$/src/Percolation.java" />
+        <option value="$PROJECT_DIR$/src/PercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/InteractivePercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/PercolationStats.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="130" />
-    <option name="y" value="246" />
+    <option name="y" value="245" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,38 +321,26 @@
             </path>
             <path>
               <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Percolation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="algs4.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="algs4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="algs4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DataStructures" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Deques andRandomized Queues" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20242915" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sijie\Dropbox\Algorithms-Princeton\Percolation\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,7 +354,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Percolation">
+  <component name="RunManager" selected="Application.InteractivePercolationVisualizer">
+    <configuration name="InteractivePercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InteractivePercolationVisualizer" />
+      <module name="Percolation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Percolation" />
@@ -167,13 +387,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="Percolation" />
+      <option name="PROGRAM_PARAMETERS" value="input8.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.PercolationStats" />
       <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="Application.InteractivePercolationVisualizer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InteractivePercolationVisualizer" />
+        <item itemvalue="Application.PercolationVisualizer" />
         <item itemvalue="Application.Percolation" />
         <item itemvalue="Application.PercolationStats" />
       </list>
@@ -195,7 +427,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20889488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21226415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,37 +489,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Percolation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="343">
+          <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../algs4.jar!/edu/princeton/cs/algs4/StdStats.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2736">
+        <state relative-caret-position="590">
           <caret line="175" column="29" selection-start-line="175" selection-start-column="25" selection-end-line="175" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greeting57.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InteractivePercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
